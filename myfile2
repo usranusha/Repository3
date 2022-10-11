@@ -6,13 +6,36 @@
 	<meta name="viewport"
 		content="width=device-width, initial-scale=1.0">
 </head>
-	
+
 <body>
 	<p>
 		Lorem ipsum dolor sit <b>amet consectetur</b>
 		adipisicing elit. Voluptates, tempora.
 	</p>
+	## new changes are made by bunny
+	<html>
+
+<head>
+	<!-- Information about the page -->
+	<!--This is the comment tag-->
+	
+	<title>GeeksforGeeks</title>
+</head>
+
+<body>
+	<!--Contents of the webpage-->
+</body>
+
+</html>
+
+
 
 </body>
 </html>
 
+</html>
+
+
+
+</body>
+</html>
